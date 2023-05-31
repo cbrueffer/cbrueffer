@@ -5,7 +5,7 @@
 [![InSilico Consulting Website Badge](https://img.shields.io/badge/InSilico%20Consulting%20AB-006400?style=flat-square&logo=google-chrome&logoColor=white)](https://insilico.consulting)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-fbbc05?style=flat-square&logo=google-chrome&logoColor=white)](https://scholar.google.com/citations?user=BFnR7W8AAAAJ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/cbrueffer)
-[![GitHub Badge](https://img.shields.io/github/followers/cbrueffer?label=Follow&style=social)](https://github.com/users/follow?target=cbrueffer)
+[![GitHub Badge](https://img.shields.io/github/followers/cbrueffer?label=Follow&style=social)](https://github.com/cbrueffer?tab=followers)
 
 I'm a freelance bioinformatician and data scientist available for hire through my company [InSilico Consulting AB](https://insilico.consulting). Based in [Lund, Sweden](https://www.google.com/maps/place/Lund/@55.7049723,13.156711,13z/), I'm conveniently located close to Denmark and Germany.
 

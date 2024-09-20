@@ -1,4 +1,4 @@
-### [Christian Brueffer](https://www.brueffer.io) &ndash; Freelance Bioinformatician and Data Scientist :dna:
+### [Christian Brueffer](https://www.brueffer.io) &ndash; Bioinformatics and Data Science Consultant :dna:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cbrueffer/)
 [![Personal Website Badge](https://img.shields.io/badge/Personal%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.brueffer.io)
@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/cbrueffer)
 [![GitHub Badge](https://img.shields.io/github/followers/cbrueffer?label=Follow&style=social)](https://github.com/cbrueffer?tab=followers)
 
-I'm a freelance bioinformatician and data scientist available for hire through my company [InSilico Consulting AB](https://insilico.consulting). Based in [Lund, Sweden](https://www.google.com/maps/place/Lund/@55.7049723,13.156711,13z/), I'm conveniently located close to Denmark and Germany.
+I'm a bioinformatics and data science consultant available for hire through my company [InSilico Consulting AB](https://insilico.consulting). Based in [Lund, Sweden](https://www.google.com/maps/place/Lund/@55.7049723,13.156711,13z/), I'm conveniently located close to Denmark and Germany.
 
 My focus in both academia and industry has been the exploration of cancer through genomic methods. See [Google Scholar](https://scholar.google.com/citations?user=BFnR7W8AAAAJ) for a list of my research publications.
 
